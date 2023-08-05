@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hwajin-web-3.0/static/css/main.7c1fff9c.css",
-    "main.js": "/hwajin-web-3.0/static/js/main.0be9c2e1.js",
+    "main.css": "/hwajin-web-3.0/static/css/main.42a7967e.css",
+    "main.js": "/hwajin-web-3.0/static/js/main.e60f8959.js",
     "static/js/787.966558c7.chunk.js": "/hwajin-web-3.0/static/js/787.966558c7.chunk.js",
     "static/media/home-banner.png": "/hwajin-web-3.0/static/media/home-banner.870032ea1fe90d11a1ad.png",
     "static/media/partner-image.png": "/hwajin-web-3.0/static/media/partner-image.de6699f5acabcfa5303b.png",
@@ -25,12 +25,12 @@
     "static/media/robotos-about-icon.svg": "/hwajin-web-3.0/static/media/robotos-about-icon.13d7f04500ce1f4d8ce1e03eb0f40973.svg",
     "static/media/mockup-icon.svg": "/hwajin-web-3.0/static/media/mockup-icon.3f762c5006d4d13b91a616846bb76a22.svg",
     "index.html": "/hwajin-web-3.0/index.html",
-    "main.7c1fff9c.css.map": "/hwajin-web-3.0/static/css/main.7c1fff9c.css.map",
-    "main.0be9c2e1.js.map": "/hwajin-web-3.0/static/js/main.0be9c2e1.js.map",
+    "main.42a7967e.css.map": "/hwajin-web-3.0/static/css/main.42a7967e.css.map",
+    "main.e60f8959.js.map": "/hwajin-web-3.0/static/js/main.e60f8959.js.map",
     "787.966558c7.chunk.js.map": "/hwajin-web-3.0/static/js/787.966558c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c1fff9c.css",
-    "static/js/main.0be9c2e1.js"
+    "static/css/main.42a7967e.css",
+    "static/js/main.e60f8959.js"
   ]
 }
